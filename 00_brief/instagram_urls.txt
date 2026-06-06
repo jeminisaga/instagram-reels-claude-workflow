@@ -1,0 +1,6 @@
+# 参考元URL（メモ用・任意）
+
+# 分析は「動画ファイル」か「reference_text.md」のどちらかで行います。
+# URLだけでは自動取得しません。保存した動画を reference/ に入れてください。
+
+# https://www.instagram.com/reel/XXXXXXXXX/

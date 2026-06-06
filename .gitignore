@@ -1,0 +1,17 @@
+# 撮影・納品の大容量ファイル（Git に載せない）
+03_footage/raw/*
+!03_footage/raw/.gitkeep
+04_audio/*
+!04_audio/README.md
+05_edit/*.mp4
+05_edit/**/*.mp4
+06_delivery/*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+
+# 環境・秘密情報
+.env
+.env.*
